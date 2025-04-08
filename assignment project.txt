@@ -1,0 +1,15 @@
+                             DATA FRAME
+data loading
+data fetching (hrad tail,sample)
+rename columns
+data information
+data statistical analysis (describe method)
+data slicing(Single and multiple element)
+mean median mode of specific columns
+finding num values
+finding rows containing snull values
+fill the null values to mean
+group by releation
+Plots (saray plots krnay ha)
+diffrence between loc and iloc and implement it also
+rename columns
